@@ -9,6 +9,7 @@ A ideia foi criar um sistema de controle de estoque onde é possível cadastrar 
 ## Tecnologias utilizadas
 
 Python
+
 SQLite
 
 ## Funcionalidades
